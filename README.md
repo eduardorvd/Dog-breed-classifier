@@ -10,7 +10,7 @@ Project from Udacity Data Scientist Nanodegree
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*. To run the step 5 in the notebook, you need to download the ResNet-50 bottleneck features in the link: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogResnet50Data.npz
+You should have installed Anaconda and Tensorflow in your local machine to follow the steps in this notebook.  The code should run with no issues using Python versions 3.*. To run the step 5 in the notebook, you need to download the ResNet-50 bottleneck features in the link: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogResnet50Data.npz
 
 ## Project Motivation<a name="motivation"></a>
 The goal of this project is to classify images of dogs according to their breed. Is is one of the possible projects to implement as the last project of the Data Scientist Nanodegree. 
