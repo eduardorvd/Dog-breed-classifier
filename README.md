@@ -24,7 +24,7 @@ There is a notebook named 'dog app.ipynb' available in this github contains all 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://eduardorvduarte.medium.com/using-data-science-to-understand-the-price-gap-of-airbnb-accommodations-in-rio-de-janeiro-33058a86c15f).
+The main findings of the code can be found at the post available [here](https://eduardorvduarte.medium.com/using-neural-networks-to-predict-dogs-breeds-227ce263cc4).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
